@@ -81,5 +81,5 @@ Final column count of each table (including partition column):
 Save the above query output to CSV files name __discount.csv__ and __cooking.csv__.
 
 ## Technical Requirements
-* Use any of the __big data__ / other frameworks.
+* Use any of the __big data__ / other frameworks (Use Dockers if needed).
 * Include a README file that explains how we can deploy your code.
