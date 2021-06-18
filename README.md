@@ -79,9 +79,10 @@ Final column count of each table (including partition column):
 
 ## Output requirements
 Save the above query output to CSV files name __discount.csv__ and __cooking.csv__.
-Prepare a simple PPT for the proposed solution
+
 
 ## Technical Requirements
 * Use any of the __big data__ / other frameworks (Use Dockers if needed).
 * Include a README file that explains how we can deploy your code 
 * Also all the code/other related files attached as zip file
+* Prepare a simple PPT for the proposed solution
