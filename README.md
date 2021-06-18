@@ -77,9 +77,11 @@ Final column count of each table (including partition column):
 1. Get the average __discount__ for each __category__
 2. Row count per each __cooking_bin__
 
-## CSV output requirements
+## Output requirements
 Save the above query output to CSV files name __discount.csv__ and __cooking.csv__.
+Prepare a simple PPT for the proposed solution
 
 ## Technical Requirements
 * Use any of the __big data__ / other frameworks (Use Dockers if needed).
-* Include a README file that explains how we can deploy your code.
+* Include a README file that explains how we can deploy your code 
+* Also all the code/other related files attached as zip file
