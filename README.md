@@ -38,7 +38,7 @@ This is a coding test for Data Engineer role.
   * order_detail table using  __order_detail.csv__
   * restaurant_detail table using __restaurant_detail.csv__
 
-* Once we have these two tables in postgre DB, ETL the same tables to Hive or any other distributed query engine of your choise with the same names and corresponding Hive data type using the below guidelines
+* Once we have these two tables in postgre DB, ETL the same tables to Hive or any other distributed query engine of your choice with the same names and corresponding Hive data type using the below guidelines
   * Both the tables should be __external table__. 
   * Both the tables should have __parquet file format__. 
   * restaurant_detail table should be partitioned by a column name __dt__ (type string) with a static value __latest__.
